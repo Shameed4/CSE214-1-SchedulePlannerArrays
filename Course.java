@@ -3,8 +3,6 @@
  * name, department, code, section, and instructor.
  * 
  * @author Sean Erfan
- * ID:114763583
- * Recitation:02
  */
 public class Course {
 	private String courseName;
