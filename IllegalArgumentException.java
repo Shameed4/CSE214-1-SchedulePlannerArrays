@@ -1,10 +1,8 @@
 /**
- * The InvalidCourseException class is used when the user attempts to put 
+ * The InvalidCourseException class is used when the user attempts to put
  * invalid information on a Course
  * 
  * @author Sean Erfan
- * ID:114763583
- * Recitation:02
  */
 public class IllegalArgumentException extends Exception {
 	/**

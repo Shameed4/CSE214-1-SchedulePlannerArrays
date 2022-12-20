@@ -3,8 +3,6 @@
  * that is not in the menu
  * 
  * @author Sean Erfan
- * ID:114763583
- * Recitation:02
  */
 public class NotMenuOptionException extends Exception {
 	/**

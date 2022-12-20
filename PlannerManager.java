@@ -3,8 +3,6 @@
  * handles input from the user to be 
  * 
  * @author Sean Erfan
- * ID:114763583
- * Recitation:02
  */
 import java.util.Scanner;
 

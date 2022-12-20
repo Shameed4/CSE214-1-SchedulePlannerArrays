@@ -3,8 +3,6 @@
  * invalid information on a Course
  * 
  * @author Sean Erfan
- * ID:114763583
- * Recitation:02
  */
 public class InvalidCourseException extends Exception {
 	/**

@@ -3,8 +3,6 @@
  * user attempts to add a course to a full planner.
  * 
  * @author Sean Erfan
- * ID:114763583
- * Recitation:02
  */
 public class FullPlannerException extends Exception {
 	/**

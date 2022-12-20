@@ -2,8 +2,6 @@
  * The Planner class implements an abstract data type for a list of courses 
  * supporting some common operations on such lists
  * @author Sean Erfan
- * ID:114763583
- * Recitation:02
  */
 public class Planner {
 	private static final int MAX_COURSES = 5;
